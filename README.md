@@ -1,20 +1,11 @@
 # Summarizer App with LangChain, OpenAI & Groq
-
-![Chatbot Playground](./ai-summerizer.png)
-
 ## Description
 
 Build a <b>Summarizer App</b> with LangChain, Python, Streamlit, OpenaAI,and Groq.
 
-### Follow the step-by-step tutorial here:
-
-<a href="https://youtu.be/0DDwvq8DxH8?si=FAA9Ggoq_VD7lxmo">
-    <img src="./yt_logo_rgb_dark.png" alt="youtube logo"/>
-</a>
-
 ## Cloning
 
-1. To clone the repo run this in your terminal: `https://github.com/AbeTavarez/AI-Summarizer-LangChain.git`
+1. To clone the repo run this in your terminal: `https://github.com/bigman1208000/AI-Summarizer-LangChain.git`
 
 2. Create a `.env` file.
 
